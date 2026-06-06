@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">معرض الصور</string>
+    <string name="tab_images">الصور</string>
+    <string name="tab_albums">الألبومات</string>
+    <string name="tab_favorites">المفضلة</string>
+    <string name="no_images_found">لم يتم العثور على صور في الجهاز</string>
+    <string name="no_favorites_found">لم تقم بإضافة أي صور إلى المفضلة بعد</string>
+    <string name="no_albums_found">لم يتم العثور على ألبومات</string>
+    <string name="images_count">%1$d صورة</string>
+    
+    <string name="permission_title">إذن الوصول إلى الصور</string>
+    <string name="permission_desc">يحتاج التطبيق إلى إذن الوصول إلى الصور المخزنة على هاتفك لعرضها داخل المعرض. يرجى تفعيل الإذن للمتابعة.</string>
+    <string name="permission_grant_button">منح الإذن</string>
+    
+    <string name="btn_delete">حذف</string>
+    <string name="btn_share">مشاركة</string>
+    <string name="btn_details">تفاصيل</string>
+    <string name="btn_favorite">تفضيل</string>
+    
+    <string name="dialog_delete_title">حذف الصورة</string>
+    <string name="dialog_delete_desc">هل أنت متأكد من رغبتك في حذف هذه الصورة نهائيًا من جهازك؟</string>
+    <string name="dialog_cancel">إلغاء</string>
+    
+    <string name="info_title">تفاصيل الصورة</string>
+    <string name="info_name">الاسم</string>
+    <string name="info_path">المسار</string>
+    <string name="info_size">الحجم</string>
+    <string name="info_date">تاريخ الإضافة</string>
+    <string name="info_close">إغلاق</string>
+    
+    <string name="toast_deleted">تم حذف الصورة بنجاح</string>
+    <string name="toast_delete_failed">فشل حذف الصورة من الجهاز</string>
+    <string name="toast_added_favorite">تمت الإضافة للمفضلة</string>
+    <string name="toast_removed_favorite">تمت الإزالة من المفضلة</string>
+    <string name="toast_share_failed">تعذر مشاركة الصورة</string>
+</resources>

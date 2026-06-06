@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera/Landscape Gallery Icon centered in the 66dp safe zone -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,28 h60 a6,6 0 0 1 6,6 v40 a6,6 0 0 1 -6,6 h-60 a6,6 0 0 1 -6,-6 v-40 a6,6 0 0 1 6,-6 z" />
+    
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M28,32 h52 a2,2 0 0 1 2,2 v24 l-14,-14 -16,16 -12,-10 -14,12 v-28 a2,2 0 0 1 2,-2 z" />
+    
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M82,58 v14 a2,2 0 0 1 -2,2 h-52 a2,2 0 0 1 -2,-2 v-14 l14,-12 12,10 16,-16 14,14 z" />
+    
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M42,44 a6,6 0 1 0 12,0 a6,6 0 1 0 -12,0 z" />
+</vector>

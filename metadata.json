@@ -1,0 +1,6 @@
+{
+  "name": "Gallery",
+  "description": "تطبيق معرض صور احترافي وسريع يدعم الألبومات والمفضلة وعرض تفاصيل الصور مع واجهة عربية جذابة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
